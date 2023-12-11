@@ -1,1 +1,1 @@
-# awesome-openharmony
+# awesome-harmonyos
