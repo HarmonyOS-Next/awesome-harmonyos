@@ -36,9 +36,9 @@
 | **Ctrl + Shift + V**            | **Shift + ⌘ + V**     | Paste from History...                         | 剪贴板，复制过的内容都在这里。（常用）                       |
 | **Ctrl + Z**                    | **⌘ + Z**             | Undo                                          | 撤消。（常用）                                               |
 | **Ctrl + Shift + Z / Ctrl + Y** | **Shift + ⌘ + Z**     | Redo                                          | 重做。                                                       |
-| **Ctrl + Shift + J**            | **Shift + ^ +J**      | Join Lines                                    | 把下一行的代码接续到当前的代码行。（常用，合并行）           |
-| **Ctrl + Shift + U**            | **Shift + ⌘ +J**      | Toggle Case                                   | 所选择的内容进行大小写转换。（常用）                         |
-| **Ctrl + Shift + ↑ / ↓**        |                       |                                               | 将选定语句向上或向下移动一行。                               |
+| **Ctrl + Shift + J**            | **Shift + ^ + J**     | Join Lines                                    | 把下一行的代码接续到当前的代码行。（常用，合并行）           |
+| **Ctrl + Shift + U**            | **Shift + ⌘ + J**     | Toggle Case                                   | 所选择的内容进行大小写转换。（常用）                         |
+| **Ctrl + Shift + ↑ / ↓**        | **Shift + ⌥ + ↑ / ↓** | Move Line Up / Down                           | 将选定语句向上或向下移动一行。                               |
 | **Ctrl + (+/-)**                | **⌘ + (+/-)**         | Expand/Collapse                               | 折叠或展开代码。 （常用，代码量多时比较实用）                |
 | **Shift + F6**                  | **Shift + F6**        | Refator Rename                                | 重构修改命名。（常用，能同步更新路径、变量名、函数名的重命名） |
 | **Ctrl + F4**                   | **⌘ + W**             | Close Tab                                     | 关闭当前标签页。（建议：Win 系统操作不方便，修改快捷键为 Ctrl + W 操作起来更顺手） |
