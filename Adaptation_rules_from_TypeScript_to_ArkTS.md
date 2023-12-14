@@ -285,7 +285,7 @@ ArkTS 只支持 Symbol.iterator。
 
 ### 不支持以#开头的私有字段
 
-**规则：**arkts-no-private-identifiers
+**规则：** arkts-no-private-identifiers
 
 **级别：错误**
 
